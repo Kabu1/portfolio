@@ -1,0 +1,36 @@
+body {
+  background: silver;
+  font-family: sans-serif;
+  color: white;
+  margin: 0;
+}
+header {
+  background: black;
+  height: 70px;
+  text-align: center;
+  padding: 20px;
+}
+header a {
+  color: white;
+  text-decoration: none;
+  text-transform: uppercase;
+
+}
+header ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+header li {
+  display: inline-block;
+  margin-right: 50px;
+}
+footer {
+  background: black;
+  font-size: 12px;
+  height: 100px;
+}
+.contact {
+  text-align: center;
+  padding: 0;
+}
