@@ -26,6 +26,11 @@ header li {
   margin-right: 50px;
 }
 .column {
-  width: 400px;
+  width: 427px;
   float: left;
+}
+.column img{
+  height: 400px;
+  width: 400px;
+  border-radius: 10px;
 }
