@@ -1,7 +1,7 @@
 body {
   background: silver;
   font-family: sans-serif;
-  color: white;
+  color: black;;
   margin: 0;
 }
 header {
@@ -25,12 +25,7 @@ header li {
   display: inline-block;
   margin-right: 50px;
 }
-footer {
-  background: black;
-  font-size: 12px;
-  height: 100px;
-}
-.contact {
-  text-align: center;
-  padding: 0;
+.column {
+  width: 400px;
+  float: left;
 }
