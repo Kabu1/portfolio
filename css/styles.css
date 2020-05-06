@@ -31,6 +31,25 @@ header li {
 }
 .column img{
   height: 400px;
-  width: 400px;
-  border-radius: 10px;
+  width: 390px;
+  border-radius: 15px;
+}
+.text-box {
+  border: 10px solid yellow;
+  margin: 3px;
+  padding: 3px;
+  background: pink;
+}
+.text-box1 {
+  border: 10px solid yellow;
+  margin: 2px;
+  padding: 3px;
+  background: pink;
+
+}.text-box2 {
+  border: 10px solid yellow;
+  margin: 2px;
+  padding: 3px;
+  background: pink;
+
 }
